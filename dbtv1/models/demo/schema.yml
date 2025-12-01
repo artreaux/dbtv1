@@ -2,7 +2,7 @@
 version: 2
 
 models:
-  - name: fivetran
+  - name: concat
     description: "connecting with fivetran"
     database: FIVETRAN_DB
     schema: FIVETRAN_SCHEMA
