@@ -10,6 +10,3 @@ sources:
 models:
   - name: concat
     description: "concat first and last name"
-    tables:
-    - name: concat
-      description: "This is the concat model"
